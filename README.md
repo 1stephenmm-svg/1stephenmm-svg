@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Stephen 👋
 
-<!--
-**1stephenmm-svg/1stephenmm-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineer and Backend Developer from Colombia.
 
-Here are some ideas to get you started:
+I have experience building educational and healthcare information systems using Python, Django, PostgreSQL and cloud-based technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+- Information Systems
+- Analytics Engineering
+- Decision Support Systems
+- Cloud Computing
+- Computer Vision
+- Applied AI
+
+## Featured Project
+
+### KAMACHIX
+
+Academic analytics dashboard developed at the University of Nariño and deployed in a real institutional environment.
+
+## Profiles
+
+- ORCID
+- LinkedIn

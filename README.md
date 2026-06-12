@@ -21,5 +21,5 @@ Academic analytics dashboard developed at the University of Nariño and deployed
 
 ## Profiles
 
-- ORCID
-- LinkedIn
+- [ORCID](https://orcid.org/0000-0002-1012-1549)
+- [LinkedIn](in/stephen-molina-martinez-96143861)

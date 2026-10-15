@@ -79,6 +79,8 @@ A Python console application for user profile management and preference-based ma
 * Offline-First Application Architectures
 * Modern Cloud Architectures
 * Mobile Development with Flutter
+* LLM Integration and Structured Outputs
+* Natural Language Processing for Python Applications
 
 ---
 
